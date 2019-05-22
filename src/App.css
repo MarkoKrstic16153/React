@@ -1,0 +1,137 @@
+.App {
+ /* text-align: center;*/
+  height:100%;
+}
+.App-header {
+  display: flex;
+  flex-direction: column;
+ /* align-items: center;
+  justify-content: center;*/
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+h1{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  font-size:50px;
+}
+h2{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  font-size:25px;
+}
+.sredina{
+  margin-left:40%;
+}
+p{
+  margin:10px;
+}
+body{
+  background-color: #4b85f8;
+}
+.kon{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.glavni{
+  display: flex;
+  flex-direction: row;
+
+}
+li{
+  margin:5px;
+  padding :5px;
+  flex-grow: 0.5;
+  width:50%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.okupljanjeLista{
+  text-align: left;
+  align-items: left;
+  justify-content: left;
+margin-left:42%;
+}
+.igraci{
+  flex-grow: 1;
+}
+.utakmice{
+  flex-grow: 1;
+  
+}
+.red{
+  color:red;
+}
+.black{
+  color:black;
+}
+.bRed{
+  border: 3px;
+  border-style: solid;
+  border-color: red;
+  display: flex;
+  flex-direction: row;
+}
+.bBlack{
+  border: 3px;
+  border-style: solid;
+  border-color: black;
+  display: flex;
+  flex-direction: row;
+}
+ul{
+  list-style-type: none;
+  display:flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+ol{
+  list-style-type: none;
+
+}
+.bDot::before {
+  content: "•"; color: black;
+  display: inline-block; width: 1em;
+  margin-left: -1em
+}
+.rDot::before {
+  content: "•"; color: red;
+  display: inline-block; width: 1em;
+  margin-left: -1em
+}
+.okvir{
+  border: 3px;
+  border-style: solid;
+  border-color: beige;
+}
+.centr{
+  margin-left:35%;
+}
+a{
+  font: 25px;
+  padding:5px;
+  margin:20px;
+  border: 3px;
+  border-style: solid;
+  border-color: beige;
+}
+.main{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+

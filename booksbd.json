@@ -1,0 +1,352 @@
+{
+  "igraci": [
+    {
+      "ime": "Marko",
+      "sifra": "a",
+      "prezime": "Krstic",
+      "kontakt": "555-333",
+      "brojDresa": 1,
+      "pozicija": "Golman",
+      "brojGolova": 1,
+      "brojUtakmica": 11,
+      "id": 1
+    },
+    {
+      "ime": "Nikola",
+      "sifra": "b",
+      "prezime": "Krstic",
+      "kontakt": "067/5555-33",
+      "brojDresa": 10,
+      "pozicija": "Napad",
+      "brojGolova": 10,
+      "brojUtakmica": 11,
+      "id": 2
+    },
+    {
+      "ime": "Bozidar",
+      "sifra": "c",
+      "prezime": "Videnovic",
+      "kontakt": "067/5556-44",
+      "brojDresa": 4,
+      "pozicija": "Rezerva",
+      "brojGolova": 2,
+      "brojUtakmica": 7,
+      "id": 3
+    },
+    {
+      "ime": "Petar",
+      "sifra": "d",
+      "prezime": "Mihajlov",
+      "kontakt": "063/999-66-32",
+      "brojDresa": 2,
+      "pozicija": "Odbrana",
+      "brojGolova": 1,
+      "brojUtakmica": 5,
+      "id": 4
+    },
+    {
+      "ime": "Dusan",
+      "sifra": "e",
+      "prezime": "Maksimovic",
+      "kontakt": "064/777-32-45",
+      "brojDresa": 7,
+      "pozicija": "Napad",
+      "brojGolova": 3,
+      "brojUtakmica": 8,
+      "id": 5
+    },
+    {
+      "ime": "Nikola",
+      "sifra": "f",
+      "prezime": "Stojanovic",
+      "kontakt": "667-435",
+      "brojDresa": 3,
+      "pozicija": "Rezerva",
+      "brojGolova": 3,
+      "brojUtakmica": 7,
+      "id": 6
+    },
+    {
+      "ime": "Milos",
+      "sifra": "g",
+      "prezime": "Milanovic",
+      "kontakt": "063/872-77-33",
+      "brojDresa": 22,
+      "pozicija": "Odbrana",
+      "brojGolova": 3,
+      "brojUtakmica": 6,
+      "id": 7
+    },
+    {
+      "ime": "Luka",
+      "sifra": "h",
+      "prezime": "Brkljac",
+      "kontakt": "063/320-33-78",
+      "brojDresa": 5,
+      "pozicija": "Napad",
+      "brojGolova": 4,
+      "brojUtakmica": 6,
+      "id": 8
+    },
+    {
+      "ime": "Stevan",
+      "sifra": "i",
+      "prezime": "Zivkovic",
+      "kontakt": "420-397",
+      "brojDresa": 16,
+      "pozicija": "Odbrana",
+      "brojGolova": 1,
+      "brojUtakmica": 7,
+      "id": 9
+    },
+    {
+      "ime": "Sava",
+      "sifra": "j",
+      "prezime": "Stefanovic",
+      "kontakt": "065/346-99-03",
+      "brojDresa": 9,
+      "pozicija": "Napad",
+      "brojGolova": 2,
+      "brojUtakmica": 7,
+      "id": 10
+    },
+    {
+      "ime": "Aleksandar",
+      "sifra": "k",
+      "prezime": "Peric",
+      "kontakt": "066/346-19-73",
+      "brojDresa": 99,
+      "pozicija": "Golman",
+      "brojGolova": 0,
+      "brojUtakmica": 1,
+      "id": 11
+    },
+    {
+      "ime": "Milan",
+      "sifra": "l",
+      "prezime": "Stanojevic",
+      "kontakt": "063/741-25-43",
+      "brojDresa": 8,
+      "pozicija": "Napad",
+      "brojGolova": 0,
+      "brojUtakmica": 2,
+      "id": 12
+    },
+    {
+      "ime": "Mihajlo",
+      "sifra": "m",
+      "prezime": "Todorovic",
+      "kontakt": "063/731-26-53",
+      "brojDresa": 11,
+      "pozicija": "Napad",
+      "brojGolova": 1,
+      "brojUtakmica": 3,
+      "id": 13
+    },
+    {
+      "ime": "Andrej",
+      "sifra": "n",
+      "prezime": "Ilic",
+      "kontakt": "061/671-37-57",
+      "brojDresa": 27,
+      "pozicija": "Odbrana",
+      "brojGolova": 0,
+      "brojUtakmica": 2,
+      "id": 14
+    },
+    {
+      "ime": "Dusan",
+      "sifra": "o",
+      "prezime": "Sekulovski",
+      "kontakt": "061/873-47-51",
+      "brojDresa": 37,
+      "pozicija": "Rezerva",
+      "brojGolova": 0,
+      "brojUtakmica": 2,
+      "id": 15
+    },
+    {
+      "ime": "Darko",
+      "sifra": "p",
+      "prezime": "Filipovic",
+      "kontakt": "062/883-49-53",
+      "brojDresa": 55,
+      "pozicija": "Odbrana",
+      "brojGolova": 0,
+      "brojUtakmica": 1,
+      "id": 16
+    },
+    {
+      "ime": "Nikola",
+      "sifra": "q",
+      "prezime": "Stankovic",
+      "kontakt": "060/893-59-13",
+      "brojDresa": 12,
+      "pozicija": "Napad",
+      "brojGolova": 0,
+      "brojUtakmica": 1,
+      "id": 17
+    },
+    {
+      "ime": "Nikola",
+      "sifra": "r",
+      "prezime": "Milovanovivc",
+      "kontakt": "066/897-79-14",
+      "brojDresa": 98,
+      "pozicija": "Napad",
+      "brojGolova": 1,
+      "brojUtakmica": 2,
+      "id": 18
+    }
+  ],
+  "utakmice": [
+    {
+      "datum": "23.4.2019",
+      "lokacija": "Skolsko",
+      "ekipa1Golovi": 2,
+      "ekipa2Golovi": 3,
+      "ekipa1": [
+        "1 Marko Krstic",
+        "10 Nikola Krstic",
+        "4 Bozidar Vidanovic",
+        "2 Petar Mihajlov",
+        "7 Dusan Maksimovic"
+      ],
+      "ekipa2": [
+        "3 Nikola Stojanovic",
+        "22 Milos Milanovic",
+        "5 Luka Brkljac",
+        "16 Stevan Zivkovic",
+        "9 Sava Stefanovic"
+      ],
+      "strelci1": [
+        "10 Nikola Krstic",
+        "7 Dusan Maksimovic"
+      ],
+      "strelci2": [
+        "9 Sava Stefanovic",
+        "5 Luka Brkljac",
+        "22 Milos Milanovic"
+      ],
+      "id": 1
+    },
+    {
+      "datum": "13.5.2019",
+      "lokacija": "Skolsko",
+      "ekipa1Golovi": 2,
+      "ekipa2Golovi": 1,
+      "ekipa1": [
+        "1 Marko Krstic",
+        "3 Nikola Stojanovic",
+        "55 Darko Filipovic",
+        "22 Milos Milanovic",
+        "11 Mihajlo Todorovic"
+      ],
+      "ekipa2": [
+        "4 Bozidar Vidanovic",
+        "10 Nikola Krstic",
+        "27 Andrej Ilic",
+        "37 Dusan Sekulovski",
+        "12 Nikola Stankovic"
+      ],
+      "strelci1": [
+        "3 Nikola Stojanovic",
+        "11 Mihajlo Todorovic"
+      ],
+      "strelci2": [
+        "10 Nikola Krstic"
+      ],
+      "id": 2
+    },
+    {
+      "datum": "13.5.2019",
+      "lokacija": "Kula",
+      "ekipa1Golovi": 1,
+      "ekipa2Golovi": 1,
+      "ekipa1": [
+        "1 Marko Krstic",
+        "3 Nikola Stojanovic",
+        "5 Luka Brkljac",
+        "2 Petar Mihajlov",
+        "7 Dusan Maksimovic"
+      ],
+      "ekipa2": [
+        "9 Sava Stefanovic",
+        "16 Stevan Zivkovic",
+        "8 Milan Stanojevic",
+        "11 Mihajlo Todorovic",
+        "98 Nikola Milovanovivc"
+      ],
+      "strelci1": [
+        "5 Luka Brkljac"
+      ],
+      "strelci2": [
+        "98 Nikola Milovanovivc"
+      ],
+      "id": 3
+    },
+    {
+      "datum": "23.4.2019",
+      "lokacija": "Kula",
+      "ekipa1Golovi": 2,
+      "ekipa2Golovi": 3,
+      "ekipa1": [
+        "1 Marko Krstic",
+        "4 Bozidar Videnovic",
+        "16 Stevan Zivkovic",
+        "5 Luka Brkljac",
+        "9 Sava Stefanovic"
+      ],
+      "ekipa2": [
+        "10 Nikola Krstic",
+        "7 Dusan Maksimovic",
+        "99 Aleksandar Peric",
+        "11 Mihajlo Todorovic",
+        "27 Andrej Ilic"
+      ],
+      "strelci1": [
+        "4 Bozidar Videnovic",
+        "5 Luka Brkljac"
+      ],
+      "strelci2": [
+        "10 Nikola Krstic",
+        "10 Nikola Krstic",
+        "10 Nikola Krstic"
+      ],
+      "id": 4
+    },
+    {
+      "datum": "29.4.2019",
+      "lokacija": "Skolsko",
+      "ekipa1Golovi": 0,
+      "ekipa2Golovi": 0,
+      "ekipa1": [
+        "1 Marko Krstic",
+        "4 Bozidar Videnovic",
+        "10 Nikola Krstic",
+        "37 Dusan Sekulovski",
+        "8 Milan Stanojevic"
+      ],
+      "ekipa2": [
+        "98 Nikola Milovanovivc",
+        "3 Nikola Stojanovic",
+        "9 Sava Stefanovic",
+        "16 Stevan Zivkovic",
+        "22 Milos Milanovic"
+      ],
+      "strelci1": [],
+      "strelci2": [],
+      "id": 5
+    }
+  ],
+  "okupljanje": {
+    "datum": "30.5.2019",
+    "lokacija": "Kula",
+    "vreme": "16:45",
+    "dolaze": [
+      3,
+      1
+    ],
+    "sifra": "d"
+  }
+}
